@@ -1,5 +1,5 @@
 {
-  "name": "iadvize/php-swaggerize-fastroute-library",
+  "name": "moazzamk/php-swaggerize-fastroute-library",
   "description": "A library to automatically create FastRoute routes based on swagger JSON documentation",
   "authors": [
     {
